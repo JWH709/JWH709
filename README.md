@@ -1,6 +1,7 @@
 # John Heneghan 
 
 Full-Stack development Student with GetCoding
+
 Currently studying React ⚛
 
 ## About Me
