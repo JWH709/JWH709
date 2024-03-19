@@ -1,4 +1,4 @@
-# John Heneghan 
+# Jack Heneghan 
 
 Full-Stack development Student with GetCoding
 
@@ -26,5 +26,5 @@ Currently studying React ⚛
 
 ## Contact
 
-[![Alt Text](https://github.com/JWH709/JWH709/assets/150379654/8124584b-baf1-483d-893e-d2025057f968)](https://www.linkedin.com/in/john-heneghan-1093222ba/) 
+[![Alt Text](https://github.com/JWH709/JWH709/assets/150379654/8124584b-baf1-483d-893e-d2025057f968)](https://www.linkedin.com/in/jack-heneghan-1093222ba/) 
 [![Alt Text](https://github.com/JWH709/JWH709/assets/150379654/3e733374-5c27-4f5f-9cec-446232362129)](mailto:jwheneghan@hotmail.com)
