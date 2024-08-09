@@ -12,8 +12,8 @@ Currently studying React ⚛
 
 ## Projects
 
-- 🎵 [Groove Jumper](https://jwh709.github.io/Groove-Jumper/)
-- 🃏 [Buffoon Builder (WIP)](https://github.com/JWH709/Buffoon-Builder)
+- 🎵 [Groove Jumper](https://github.com/JWH709/Groove-Jumper)
+- 🃏 [Buffoon Builder](https://jwh709.github.io/Buffoon-Builder/)
 
 
 ## Skills
