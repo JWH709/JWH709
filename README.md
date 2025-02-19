@@ -1,5 +1,3 @@
-# Jack Heneghan 
-
 Full-Stack development Student with GetCoding
 
 Currently studying Back-end Web Development
